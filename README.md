@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Mahin, from Ahmedabad</h2> 
+<h2 align="center">Hi 👋! I'm valli, from INDIA</h2> 
 
 
 
@@ -12,7 +12,7 @@
 <h2 align="center">About Me</h2>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="center">
- Hello! My name is Mahin Malek & I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
+Experienced and detail-oriented Developer with 3+ years of hands-on experience in crafting pixel-perfect designs and implementing responsive layouts for seamless web experiences. Proficient in front-end technologies including HTML5, CSS3, JavaScript (ES6+), and popular frameworks like React and Vue.js. Skilled in translating design mockups into interactive and user-friendly interfaces, optimizing performance, and ensuring cross-browser compatibility.
 </p>
   <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
 </div>
