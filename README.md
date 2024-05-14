@@ -52,11 +52,8 @@ Experienced and detail-oriented Developer with 3+ years of hands-on experience i
 
 <p align="center">
 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mahin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
-  </a>
+  
 </p>
 
 <p align="center">
