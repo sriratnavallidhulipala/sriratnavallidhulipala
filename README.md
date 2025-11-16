@@ -12,8 +12,7 @@
 <h2 align="center">About Me</h2>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="center">
-  Demonstrates strong administrative and communication skills, collaborating effectively with cross-functional teams to deliver high-quality projects within deadlines. Proven ability to write clean, efficient, and maintainable code while adhering to best practices and coding standards. Passionate about leveraging technology to create innovative solutions and continuously enhancing skills through ongoing learning and professional development.
-Experienced and detail-oriented Developer with 3+ years of hands-on experience in crafting pixel-perfect designs and implementing responsive layouts for seamless web experiences. Proficient in front-end technologies including HTML5, CSS3, JavaScript (ES6+), and popular frameworks like React and Vue.js. Skilled in translating design mockups into interactive and user-friendly interfaces, optimizing performance, and ensuring cross-browser compatibility.
+  Frontend Developer with 3.6+ years of experience specializing in React.js, building responsive, high-performance web applications. Skilled in JavaScript, React Hooks, API integration, AG Grid, and UI optimization. Proven experience delivering efficient, user-focused solutions in fast-paced environments. Seeking opportunities to contribute strong frontend expertise and build impactful digital products.
 </p>
   <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
 </div>
