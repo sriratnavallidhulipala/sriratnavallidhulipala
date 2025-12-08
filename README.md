@@ -46,10 +46,13 @@ I'm a passionate and results-driven Front-End Developer with 3+ years of experie
 ---
 
 ## 🚀 Featured Projects
-> (Choose 4–6 projects to pin and link. Below are examples — replace with your projects.)
+> MERN STACK
 > HTML- mini projects:
-LaundryMart-https://laundrymartwithhtml.netlify.app/
->CSS
+> 
+> LaundryMart-https://laundrymartwithhtml.netlify.app/
+> 
+> CSS
+
 
 ---
 
