@@ -46,12 +46,16 @@ I'm a passionate and results-driven Front-End Developer with 3+ years of experie
 ---
 
 ## 🚀 Featured Projects
-> MERN STACK
-> HTML- mini projects:
-> 
-> LaundryMart-https://laundrymartwithhtml.netlify.app/
-> 
-> CSS
+
+**MERN STACK**
+
+**HTML Mini Projects:**
+- **Project Name:** Laundry Mart
+- **Project Description:** A complete laundry service website built with pure HTML5 featuring service listings, pricing tables, and booking forms with semantic structure
+- **Project View:** [View Live](https://laundrymartwithhtml.netlify.app/)
+
+**CSS**
+
 
 
 ---
